@@ -26,7 +26,20 @@ body {
 .u-list.has-linked-children>li>a:hover {
 	background-color: var(--u-list-bg-hover);
 }
-
+.p-chapter-show .l-column-common.section .u-list li a.is-gate-closed::after {
+	background-image: linear-gradient(
+		-45deg,
+		var(--gate-colosed-color-1) 25%,
+		var(--gate-colosed-color-2) 25%,
+		var(--gate-colosed-color-2) 50%,
+		var(--gate-colosed-color-1) 50%,
+		var(--gate-colosed-color-1) 75%,
+		var(--gate-colosed-color-2) 75%,
+		var(--gate-colosed-color-2) 100%
+	);
+	background-size: 10px 10px;
+	background-position: fixed;
+}
 /*===========================divider============================*/
 .divider {
 	border-color: var(--divider-color);
@@ -39,7 +52,7 @@ body {
 .u-list.has-linked-children>li {
 	border-color: var(--divider-color);
 }
-
+/*=========================Pankuzu list===========================*/
 .u-breadcrumbs>li.current>a, .u-breadcrumbs>li.current:visited {
 	color: var(--breadcrumbs-list-color);
 }
