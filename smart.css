@@ -9,6 +9,8 @@
 
 
 	--question-list-item-bg-color: var(--background-secondary-alt);
+	--body-bg-color: var(--background-primary);
+	--question-answer-bg-color: var(--background-primary);
 
 
 	--u-list-bg-hover: var(--list-hover-bg-color);
@@ -20,7 +22,5 @@
 	--breadcrumbs-list-color: var(--normal-text);
 	--nav-link-color: var(--normal-text);
 	--progress-label-color: var(--normal-text);
-
-	--body-bg-color: var(--background-primary);
-
+	--question-answer-color: var(--normal-text);
 }

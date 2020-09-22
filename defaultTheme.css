@@ -77,3 +77,7 @@ body {
 .exercise .section-item.question-list ul.answers li.answers-choice:hover {
 	background-color: var(--question-list-choice-hover-bg-color);
 }
+.exercise .section-item .type-descriptive .answers {
+	background-color: var(--question-answer-bg-color);
+	color: var(--question-answer-color);
+}
