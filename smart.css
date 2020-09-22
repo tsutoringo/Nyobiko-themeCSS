@@ -26,5 +26,5 @@
 	--progress-label-color: var(--normal-text);
 	--question-answer-color: var(--normal-text);
 
-	--question-answer-explanation-colo: var(--darken-text);
+	--question-answer-explanation-color: var(--darken-text);
 }
