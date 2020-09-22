@@ -9,6 +9,8 @@
 
 
 	--question-list-item-bg-color: var(--background-secondary-alt);
+	--footer-bg-color: var(--background-secondary-alt);
+
 	--body-bg-color: var(--background-primary);
 	--question-answer-bg-color: var(--background-primary);
 
