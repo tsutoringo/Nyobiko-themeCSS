@@ -10,6 +10,10 @@
 
 	--question-list-item-bg-color: var(--background-secondary-alt);
 
+
+	--u-list-bg-hover: var(--list-hover-bg-color);
+	--question-list-choice-hover-bg-color: var(--list-hover-bg-color);
+
 	--body-text-color: var(--normal-text);
 	--u-list-color: var(--normal-text);
 	--page-title-color: var(--normal-text);
