@@ -81,6 +81,9 @@ body {
 	background-color: var(--question-answer-bg-color);
 	color: var(--question-answer-color);
 }
+.exercise .section-item.explanation {
+	color: var(--question-answer-explanation-color);
+}
 /*=============================Footer==============================*/
 .wrapper .footer {
 	background-color: var(--footer-bg-color);

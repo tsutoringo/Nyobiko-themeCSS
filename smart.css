@@ -25,4 +25,6 @@
 	--nav-link-color: var(--normal-text);
 	--progress-label-color: var(--normal-text);
 	--question-answer-color: var(--normal-text);
+
+	--question-answer-explanation-colo: var(--darken-text);
 }
