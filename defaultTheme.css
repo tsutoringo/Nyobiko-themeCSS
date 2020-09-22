@@ -68,3 +68,8 @@ body {
 .exercise .section-item.question-list .exercise-item {
 	background-color: var(--question-list-item-bg-color);
 }
+
+.exercise .section-item li.answers-choice {
+	background-color: var(--question-list-choice-bg-color);
+
+}
