@@ -70,6 +70,10 @@ body {
 }
 
 .exercise .section-item li.answers-choice {
-	background-color: var(--question-list-choice-bg-color);
+	background-color: var(--question-ans-list-choice-bg-color);
 
+}
+
+.exercise .section-item.question-list ul.answers li.answers-choice:hover {
+	background-color: var(--question-list-choice-hover-bg-color);
 }
