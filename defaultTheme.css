@@ -63,3 +63,8 @@ body {
 .u-progress>.u-progress-labels li {
 	color: var(--progress-label-color);
 }
+
+/*=========================Question list===========================*/
+.exercise .section-item.question-list .exercise-item {
+	background-color: var(--question-list-item-bg-color);
+}
