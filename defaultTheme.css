@@ -40,6 +40,9 @@ body {
 	background-size: 10px 10px;
 	background-position: fixed;
 }
+.u-button.type-primary-light {
+	background-color: var(--u-button-bg-color-primary-light);
+}
 /*===========================divider============================*/
 .divider {
 	border-color: var(--divider-color);
