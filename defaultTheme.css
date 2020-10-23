@@ -19,6 +19,10 @@ body {
 	border-color: var(--divider-color);
 	color: var(--u-card-color);
 }
+/*=============================modal window==========================*/
+.modal-window-content  {
+	background-color: var(--u-card-bg-color);
+}
 /*===========================u-list===========================*/
 .u-list.has-linked-children>li>a {
 	color: var(--u-list-color);
