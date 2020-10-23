@@ -21,7 +21,7 @@ body {
 }
 /*=============================modal window==========================*/
 .modal-window-content  {
-	background-color: var(--u-card-bg-color);
+	background-color: var(--u-card-bg-color) !important;
 }
 /*===========================u-list===========================*/
 .u-list.has-linked-children>li>a {
